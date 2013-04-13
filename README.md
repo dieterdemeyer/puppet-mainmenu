@@ -1,4 +1,4 @@
-# MainMenu Puppet Module for Boxen ![Build Status](https://travis-ci.org/dieterdemeyer/puppet-mainmenu.png?branch=master)](https://travis-ci.org/dieterdemeyer/puppet-mainmenu)
+# MainMenu Puppet Module for Boxen
 
 Install [MainMenu](http://mainmenuapp.com/), a maintenance tool to keep your Mac in shape.
 
