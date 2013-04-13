@@ -1,13 +1,11 @@
-# Template Puppet Module for Boxen
+# MainMenu Puppet Module for Boxen ![Build Status](https://travis-ci.org/dieterdemeyer/puppet-mainmenu.png?branch=master)](https://travis-ci.org/dieterdemeyer/puppet-mainmenu)
 
-[![Build Status](https://travis-ci.org/dieterdemeyer/puppet-mainmenu.png?branch=master)](https://travis-ci.org/dieterdemeyer/puppet-mainmenu)
+Install [MainMenu](http://mainmenuapp.com/), a maintenance tool to keep your Mac in shape.
 
 ## Usage
 
 ```puppet
-boxen::example { 'best example ever':
-  salutation => 'fam'
-}
+include mainmenu
 ```
 
 ## Required Puppet Modules
