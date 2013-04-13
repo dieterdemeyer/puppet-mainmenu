@@ -4,7 +4,7 @@
 #
 #  include mainmenu
 class mainmenu {
-  package { "MainMenu":
+  package { 'MainMenu':
     provider => 'compressed_app',
     source   => 'http://storage.googleapis.com/incrediblebee/apps/MainMenu/MainMenu.zip',
   }
